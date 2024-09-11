@@ -37,3 +37,6 @@ next-env.d.ts
 
 # lock file
 pnpm-lock.yaml
+
+# env file
+.env
